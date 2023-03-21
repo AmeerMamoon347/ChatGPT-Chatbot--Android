@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
     var isSpeech = false;
 
     //     Api key
-    val apiKey = "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"
+  
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
